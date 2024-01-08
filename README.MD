@@ -2,7 +2,7 @@
 
 This is a web application built using HTML, CSS, Javascript to visualize classic sorting algorithms such as bubble, insertion, selection, merge, quick 
 
-**Live-** [sorting visualizer]() 
+**Live-** [sorting visualizer](https://sorting-visualizer-akshay.vercel.app/) 
 
 **Code-** [sort visualizer code](https://github.com/dranzer2021/Sorting-Visualizer/)
 
